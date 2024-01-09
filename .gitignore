@@ -1,5 +1,4 @@
 .idea
-.vscode
 cmd/venom/bin
 tests/pprof*
 tests/.DS_Store
